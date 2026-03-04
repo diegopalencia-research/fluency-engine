@@ -1,12 +1,9 @@
-# 🎙️ FLUENCY ENGINE
+# FLUENCY ENGINE
 ### Adaptive Spoken English Training Platform
-**Project 04 · Diego Jose Palencia Robles · Palencia Research Portfolio**
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 
 ---
 
-> *"The ability to speak a language fluently is not a single skill — it is a system of sub-skills that can be isolated, measured, and trained independently."*  
+> *"The ability to speak a language fluently is not a single skill, it is a system of sub-skills that can be isolated, measured, and trained independently."*  
 > — Skehan (1996), adapted
 
 ---
